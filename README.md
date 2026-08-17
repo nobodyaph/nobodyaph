@@ -20,4 +20,4 @@ I'm a Computer Science student with a growing focus on the convergence of softwa
 
   
 ## 💭 ✧˚ ༘ 💬⋆｡˚📱 **Let's Connect!**
-inℹ️[LinkedIn](https://www.linkedin.com/in/eliana-stroescu-software-developer/) | ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗[Gmail](e.ana.stroescu@gmail.com) | 🅾 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★[Instagram](https://www.instagram.com/nobody_aph/)
+⤷💼ˎˊ˗[LinkedIn](https://www.linkedin.com/in/eliana-stroescu-software-developer/) | ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗[Gmail](e.ana.stroescu@gmail.com) | 🅾 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★[Instagram](https://www.instagram.com/nobody_aph/)
