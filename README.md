@@ -16,7 +16,7 @@ I'm a Computer Science student with a growing focus on the convergence of softwa
 ## ༄˖°.☕️.ೃ࿔📚*:･ **Projects & Courses**
 - AskDuino — Interactive Arduino System with Artificial Intelligence, LED and Display Control via Text Commands
 - Statistical Data Analysis for Scientists and Engineers, a course of study offered by KU Leuven ![edX](https://img.shields.io/badge/edX-193A3E?style=flat-square&logo=edx&logoColor=white)
-- Understand the JavaScript language itself, Node.js, MongoDB, The Web Browser and More To Create Meaningful Applications ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
+- Understand the JavaScript language itself, Node.js, MongoDB, and web browsing ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
 
   
 ## 💭 ✧˚ ༘ 💬⋆｡˚📱 **Let's Connect!**
