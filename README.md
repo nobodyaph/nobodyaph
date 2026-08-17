@@ -14,4 +14,4 @@ Welcome to my GitHub profile! Incoming Computer Science student with a growing f
 - AskDuino — Interactive Arduino System with Artificial Intelligence, LED and Display Control via Text Commands
 
 ## 💭 ✧˚ ༘ 💬⋆｡˚📱 **Let's Connect!**
-[LinkedIn](https://www.linkedin.com/in/eliana-stroescu-software-developer/) | [Gmail](e.ana.stroescu@gmail.com) | [Instagram](https://www.instagram.com/nobody_aph/)
+inℹ️[LinkedIn](https://www.linkedin.com/in/eliana-stroescu-software-developer/) | ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗[Gmail](e.ana.stroescu@gmail.com) | 🅾 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★[Instagram](https://www.instagram.com/nobody_aph/)
